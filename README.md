@@ -267,9 +267,10 @@ App starts at: `http://localhost:8080`
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+**SACHIN K**
+- GitHub: [https://github.com/JDEV-SACHIN-K]
+- LinkedIn: [www.linkedin.com/in/sachin-k-dev]
+
 
 ---
 
