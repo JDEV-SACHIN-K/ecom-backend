@@ -269,7 +269,7 @@ App starts at: `http://localhost:8080`
 
 **SACHIN K**
 - GitHub: [https://github.com/JDEV-SACHIN-K]
-- LinkedIn: [www.linkedin.com/in/sachinkumar]
+- LinkedIn: [www.linkedin.com/in/sachin-k-dev]
 
 
 ---
