@@ -274,8 +274,10 @@ App starts at: `http://localhost:8080`
 
 ---
 
+#---
+
 ## 📄 License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This project is open-source and free to use under the [MIT License](https://github.com/JDEV-SACHIN-K/PORTFOLIO/blob/main/LICENSE).
+This project is open-source and free to use under the [MIT License](https://github.com/JDEV-SACHIN-K/ecom-backend/blob/main/LICENSE).
